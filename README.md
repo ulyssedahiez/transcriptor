@@ -169,4 +169,3 @@ Ce projet utilise :
 - **PyAnnote** pour la diarisation (identification des locuteurs).
 - **Faster-Whisper** pour la transcription rapide et précise.
 
-Pour toute question ou amélioration, n'hésitez pas à contribuer ou à me contacter.
